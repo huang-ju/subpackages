@@ -2,7 +2,7 @@
 
 ==注意目录结构==
 
-![image](http://note.youdao.com/yws/res/6366/WEBRESOURCE1655e02de433ad169450d170128c5975)
+![image](https://i.loli.net/2019/01/15/5c3de93fca9e8.jpg)
 
 ```
 // app.js
